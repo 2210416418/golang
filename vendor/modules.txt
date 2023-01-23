@@ -1,0 +1,2 @@
+# github.com/gorilla/mux v1.7.4
+## explicit; go 1.12

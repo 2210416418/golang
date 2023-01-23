@@ -1,0 +1,10 @@
+1) banking 
+ create accounts 
+2) add account-post
+   remove account -delete
+   account balanve - get 
+   update balance - put 
+   withdraw balance -put 
+   transfer money from one account to other - put 
+   
+
